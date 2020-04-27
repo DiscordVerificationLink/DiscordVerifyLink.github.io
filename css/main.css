@@ -43,6 +43,7 @@ p {
    transition:.3s;
    color: #ACBCF8;
    text-decoration: none;
+   user-select: none;
 }
 .ui:hover {
    font-family: discord-font;
@@ -53,9 +54,11 @@ p {
    transition:.3s;
    color: #7289DF;
    text-decoration: none;
+   user-select: none;
 }
 .ui-active {
    color: #7289DF;
    font-family: discord-font;
    text-decoration: none;
+   user-select: none;
 }
