@@ -62,3 +62,6 @@ p {
    text-decoration: none;
    user-select: none;
 }
+.no-touch {
+   user-select: none;
+}
