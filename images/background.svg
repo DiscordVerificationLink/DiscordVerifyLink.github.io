@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 345 209" width="345" height="209">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="-13.705" y1="206.449" x2="359.167" y2="0.006">
+			<stop offset="0" stop-color="#657ed9"  />
+			<stop offset="1" stop-color="#bbcaff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: #ffffff;stroke: #000000;stroke-width: 0 } 
+		.shp2 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="svg_1">
+			<g id="svg_2">
+				<path id="svg_3" class="shp0" d="M-11.83 208.43L-11.15 -2.67L357.29 -1.97L356.61 209.12L-11.83 208.43L-11.83 208.43Z" />
+			</g>
+		</g>
+		<path id="svg_4" class="shp1" d="M361.9 43.23C266.78 43.23 189.9 17 189.9 -15.44C189.9 -47.88 266.78 -74.1 361.9 -74.1C457.01 -74.1 533.9 -47.88 533.9 -15.44C533.9 17 457.01 43.23 361.9 43.23Z" />
+		<path id="svg_4 copy" class="shp1" d="M173 244.23C72.35 244.23 -9 228.76 -9 209.61C-9 190.47 72.35 175 173 175C273.65 175 355 190.47 355 209.61C355 228.76 273.65 244.23 173 244.23Z" />
+		<g id="svg_11">
+			<g id="svg_8">
+				<g id="svg_9">
+					<path id="svg_10" class="shp2" d="M362.14 -15.56L370.36 83.88C370.36 83.88 347.88 58.61 324.76 47.63C304.39 37.95 258.92 30.95 258.92 30.95L252.89 -5.19L362.14 -15.56Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
