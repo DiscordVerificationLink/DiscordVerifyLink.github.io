@@ -56,5 +56,6 @@ p {
 }
 .ui-active {
    color: #7289DF;
+   font-family: discord-font;
    text-decoration: none;
 }
