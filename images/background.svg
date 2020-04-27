@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 345 209" width="345" height="209">
 	<defs>
-		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="-13.705" y1="209.388" x2="359.167" y2="2.945">
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="-13.705" y1="206.388" x2="359.167" y2="-0.055">
 			<stop offset="0" stop-color="#657ed9"  />
 			<stop offset="1" stop-color="#bbcaff"  />
 		</linearGradient>
@@ -14,7 +14,7 @@
 	<g id="Layer">
 		<g id="svg_1">
 			<g id="svg_2">
-				<path id="svg_3" class="shp0" d="M-11.83 214.28L-11.15 -2.67L357.29 -1.95L356.61 215L-11.83 214.28L-11.83 214.28Z" />
+				<path id="svg_3" class="shp0" d="M-11.83 208.3L-11.15 -2.67L357.29 -1.97L356.61 209L-11.83 208.3L-11.83 208.3Z" />
 			</g>
 		</g>
 		<path id="svg_4" class="shp1" d="M345.9 51.23C250.78 51.23 173.9 25 173.9 -7.44C173.9 -39.88 250.78 -66.1 345.9 -66.1C441.01 -66.1 517.9 -39.88 517.9 -7.44C517.9 25 441.01 51.23 345.9 51.23Z" />
