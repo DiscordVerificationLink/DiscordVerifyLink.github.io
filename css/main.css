@@ -65,3 +65,8 @@ p {
 .no-touch {
    user-select: none;
 }
+
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: #c2c9d2;
+  }
