@@ -1,10 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="/css/main.css" />
-<!-- Plugin CSS -->
 <link type="text/css" href="/css/OverlayScrollbars.css" rel="stylesheet"/>
-<!-- Plugin JS -->
-<script type="text/javascript" src="/js/OverlayScrollbars.js"></script>
 <title>Requests - Discord Server Agreements</title>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Discord Server Agreements">
@@ -54,5 +51,15 @@ body {
 <div style="border-radius: 10px; width: 500px; overflow: hidden; text-align: center; margin: 110px auto;">
    <iframe src="https://discord-sa.typeform.com/to/yFGW72" style="border:5px #7289DA none;" name="Request Form" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="600px" width="500px" allowfullscreen></iframe>
 </div>
+<script type="text/javascript" src="./js/OverlayScrollbars.js"></script>
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+   //The first argument are the elements to which the plugin shall be initialized
+   //The second argument has to be at least a empty object or a object with your desired options
+   OverlayScrollbars(document.querySelectorAll('body'), {
+       className:"os-theme-dark",
+    });
+});
+</script>
 </body>
 </html>
