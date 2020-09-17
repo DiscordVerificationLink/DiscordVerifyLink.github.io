@@ -1,10 +1,7 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="/css/main.css" />
-<!-- Plugin CSS -->
-<link type="text/css" href="/css/OverlayScrollbars.css" rel="stylesheet"/>
-<!-- Plugin JS -->
-<script type="text/javascript" src="/js/OverlayScrollbars.js"></script>
+<link type="text/css" href="./css/OverlayScrollbars.css" rel="stylesheet"/>
 <title>Home - Discord Server Agreements</title>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Discord Server Agreements">
@@ -58,5 +55,15 @@ body {
 <br>
 <p style="text-align: center;font-size: 25px;" class="main-font">Welcome to the Discord Server Agreements Website</p>
 <p style="text-align: center;font-size: 50px;" class="main-font">Under construction</p>
+<script type="text/javascript" src="./js/OverlayScrollbars.js"></script>
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+   //The first argument are the elements to which the plugin shall be initialized
+   //The second argument has to be at least a empty object or a object with your desired options
+   OverlayScrollbars(document.querySelectorAll('body'), {
+       className:"os-theme-dark",
+    });
+});
+</script>
 </body>
 </html>
